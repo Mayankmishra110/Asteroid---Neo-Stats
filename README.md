@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+![Screenshot (271)](https://github.com/Mayankmishra110/Asteroid---Neo-Stats/assets/96439214/ac2d2a11-770e-46e3-878a-50eef61dac1d)
+
+![Screenshot (272)](https://github.com/Mayankmishra110/Asteroid---Neo-Stats/assets/96439214/83c8a170-a491-4d94-81b9-b2c9c97cf17b)
+
 
 ### `npm start`
 
